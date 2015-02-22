@@ -103,3 +103,8 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Notes
+
+In case you wonder why the solution is from January, I made wrote it for
+an earlier iteration of this course before deciding to postpone my participation.
